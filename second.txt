@@ -1,4 +1,8 @@
 anything I like
 all is well
 testing git pull
+<<<<<<< HEAD
 test local repo diff remote repo
+=======
+test diff remote repo diff local repo
+>>>>>>> 468775690daca81cddf06ca656df49686554d88e
