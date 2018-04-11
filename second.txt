@@ -1,3 +1,4 @@
 anything I like
 all is well
 testing git pull
+test diff remote repo diff local repo
